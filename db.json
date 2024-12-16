@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Macbook Pro M1 Pro 2020 14",
+      "quantity": 10,
+      "price": 25000000,
+      "createdAt": "Mon Aug 21 2023 17:27:20 GMT+0700 (Western Indonesia Time)",
+      "updatedAt": "Mon Aug 21 2023 17:27:20 GMT+0700 (Western Indonesia Time)"
+    },
+    {
+      "id": 2,
+      "name": "tambah baru ahhhhhhhh",
+      "quantity": 2,
+      "price": 2000,
+      "createdAt": "2024-07-19T09:08:30.521Z",
+      "updatedAt": "2024-07-19T09:08:30.521Z"
+    },
+    {
+      "id": 3,
+      "name": "lagi ah",
+      "quantity": 2000,
+      "price": 400000,
+      "createdAt": "2024-07-19T09:08:50.090Z",
+      "updatedAt": "2024-07-19T09:08:50.090Z"
+    },
+    {
+      "id": 4,
+      "name": "tambah lagi ahh",
+      "quantity": 2024,
+      "price": 9000000,
+      "createdAt": "2024-07-19T09:27:23.861Z",
+      "updatedAt": "2024-07-19T09:27:23.861Z"
+    },
+    {
+      "id": 5,
+      "name": "capekz",
+      "quantity": 12,
+      "price": 20000000,
+      "createdAt": "2024-07-19T09:57:27.447Z",
+      "updatedAt": "2024-07-19T09:57:27.447Z"
+    },
+    {
+      "id": 6,
+      "name": "pengen tidur breee",
+      "quantity": 2,
+      "price": 20000000,
+      "createdAt": "2024-07-19T09:57:46.036Z",
+      "updatedAt": "2024-07-19T09:57:46.036Z"
+    },
+    {
+      "id": 7,
+      "name": "mandi ah",
+      "quantity": 4,
+      "price": 40000,
+      "createdAt": "2024-07-19T09:58:00.415Z",
+      "updatedAt": "2024-07-19T09:58:00.415Z"
+    },
+    {
+      "id": 8,
+      "name": "ga jadi mandi",
+      "quantity": 23,
+      "price": 9000000,
+      "createdAt": "2024-07-19T09:58:47.805Z",
+      "updatedAt": "2024-07-19T09:58:47.805Z"
+    },
+    {
+      "id": 9,
+      "name": "ya udah deh mandi",
+      "quantity": 4,
+      "price": 3999999,
+      "createdAt": "2024-07-19T09:59:08.210Z",
+      "updatedAt": "2024-07-19T09:59:08.210Z"
+    },
+    {
+      "id": 10,
+      "name": "abis tu kerja ah",
+      "quantity": 44,
+      "price": 40000000,
+      "createdAt": "2024-07-19T09:59:21.905Z",
+      "updatedAt": "2024-07-19T09:59:21.905Z"
+    },
+    {
+      "id": 11,
+      "name": "liat kucing jalanan",
+      "quantity": 23,
+      "price": 450000,
+      "createdAt": "2024-07-19T09:59:43.523Z",
+      "updatedAt": "2024-07-19T09:59:43.523Z"
+    }
+  ]
+}
